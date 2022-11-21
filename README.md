@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm interested in how things work; breaking things and fixing things.
+
+Hobbies include #cooking, #coffee, #coding, #music, and #surfing 🏄🏽‍♂️
+
+* <a rel="me" href="https://brd.mn">brd.mn</a> - for links, articles, etc.
+* <a rel="me" href="https://aus.social/@pbrdmn">Mastodon</a> - for the toots.
+* Pronouns: He / Him / His
+
 <!--
 **pbrdmn/pbrdmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
