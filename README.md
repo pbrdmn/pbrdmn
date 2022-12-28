@@ -5,7 +5,7 @@ I'm interested in how things work; breaking things and fixing things.
 Hobbies include #cooking, #coffee, #coding, #music, and #surfing 🏄🏽‍♂️
 
 * <a rel="nofollow me" href="https://brd.mn">brd.mn</a> - for links, articles, etc.
-* <a rel="nofollow me" href="https://aus.social/@pbrdmn">Mastodon</a> - for the toots.
+* <a rel="nofollow me" href="https://theblower.au/@pbrdmn">Mastodon</a> - for the toots.
 * Pronouns: He / Him / His
 
 <!--
