@@ -2,7 +2,7 @@
 
 I'm interested in how things work; breaking things and fixing things.
 
-Hobbies include #cooking, #coffee, #coding, #music, and #surfing 🏄🏽‍♂️
+Hobbies include #coding, #coffee, #cooking and #music
 
 * <a rel="nofollow me" href="https://brd.mn">brd.mn</a> - for links, articles, etc.
 * <a rel="nofollow me" href="https://theblower.au/@pbrdmn">Mastodon</a> - for the toots.
