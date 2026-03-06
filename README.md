@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi, I'm Phil 👋
 
-I'm interested in how things work; breaking things and fixing things.
+I've been building and launching products with both React and React Native for the past 10 years, integrating with Ruby on Rails backends at AirService and Redbubble, and Node and Python APIs at Compono and Canva respectively. I bring a breadth of experience gained from working on web applications across the different industries of ecommerce, hospitality, and human resources.
 
-Hobbies include #coding, #coffee, #cooking and #music
+While I have worked across the whole tech stack, I am the most enthusiastic about the frontend and building an experience that customers can enjoy and have spent most of my time working in that area. In the last few years I've been working as team lead and engineering manager, building my skills with project planning and delivery, mentoring, and increasing the impact I could bring.
 
-## Highlights
+I've enjoyed coding since I was in school, building and maintaining CMS and Ecommerce websites. I honed my HTML and CSS skills when meticulously crafting websites templates to match Photoshop designs in a design agency, and I've spent the last ten years working in full stack SAAS product development teams, particularly with a focus on React and the frontend.
 
-- Building distributed cross-functional software engineering teams. Mentoring, coaching, and developing software engineers to grow in senior development and team leadership skills.
-- Delivery planning with Product Managers and Tech Leads to create roadmaps, oversee project delivery, and implement technical solutions aligned with engineering best practices.
-- Supporting teams through restructures, aligning them with business objectives, and implementing agile delivery processes and improvements.
-
-Experienced Engineering Manager with 4 years of direct people management, leading cross-functional teams in fast-paced environments. Skilled in mentoring, coaching, and developing engineers, fostering a culture of growth and high performance. Demonstrated success in building and restructuring teams to align with strategic business objectives, driving measurable outcomes. Proven ability to lead through change and deliver complex projects while empowering team members to excel in senior roles and leadership positions.
-
-Accomplished Senior Software Engineer and Lead Developer with over 10 years of experience in full-stack development, architecture, and technical leadership. Proficient in driving agile practices, optimising development workflows, and delivering scalable, high-performance solutions. Extensive experience with modern tech stacks including React, Node.js, TypeScript, and AWS. Proven track record in leading the design and delivery of key product features that generate significant business value.
+Outside of work, I'm a husband, father of two boys, and an engaged member of the local Wollongong technology community (hi Jess). I'm passionate about playing music and regularly play piano, guitar, bass, and often lead the band of musicians at church. I enjoy staying active through running and I find both running and music are great ways to connect with my mind and body.
 
 * <a rel="nofollow me" href="https://brd.mn">brd.mn</a>
 * <a rel="nofollow me" href="https://brd.mn/CV">Resume</a>
