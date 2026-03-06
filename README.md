@@ -6,7 +6,7 @@ While I have worked across the whole tech stack, I am the most enthusiastic abou
 
 I've enjoyed coding since I was in school, building and maintaining CMS and Ecommerce websites. I honed my HTML and CSS skills when meticulously crafting websites templates to match Photoshop designs in a design agency, and I've spent the last ten years working in full stack SAAS product development teams, particularly with a focus on React and the frontend.
 
-Outside of work, I'm a husband, father of two boys, and an engaged member of the local Wollongong technology community (hi Jess). I'm passionate about playing music and regularly play piano, guitar, bass, and often lead the band of musicians at church. I enjoy staying active through running and I find both running and music are great ways to connect with my mind and body.
+Outside of work, I'm a husband, father of two boys, and an engaged member of the local Wollongong technology community. I'm passionate about playing music and regularly play piano, guitar, bass, and often lead the band of musicians at church. I enjoy staying active through running and I find both running and music are great ways to connect with my mind and body.
 
 * <a rel="nofollow me" href="https://brd.mn">brd.mn</a>
 * <a rel="nofollow me" href="https://brd.mn/CV">Resume</a>
